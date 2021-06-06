@@ -1,0 +1,37 @@
+﻿Построение начато 25.01.2021 21:49:01.
+     1>Проект "C:\Users\user\Desktop\lab3a\lab3a\lab3a\lab3a.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\lab3a.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         D:\progrms\MicrosoftVisualStudio10\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\lab3a.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt lab3a.cpp /clr:nostdlib 
+         lab3a.cpp
+     1>c:\users\user\desktop\lab3a\lab3a\lab3a\Form1.h(98): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\user\desktop\lab3a\lab3a\lab3a\Form1.h(98): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\user\desktop\lab3a\lab3a\lab3a\Form1.h(99): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>c:\users\user\desktop\lab3a\lab3a\lab3a\Form1.h(100): warning C4101: y0: неиспользованная локальная переменная
+     1>c:\users\user\desktop\lab3a\lab3a\lab3a\Form1.h(100): warning C4101: x0: неиспользованная локальная переменная
+         Для всех выходных данных обновления не требуется.
+       CoreResGen:
+         Отсутствуют ресурсы, устаревшие по отношению к файлам своих источников. Пропуск формирования ресурсов.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         D:\progrms\MicrosoftVisualStudio10\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Desktop\lab3a\lab3a\Debug\lab3a.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\lab3a.Form1.resources /MANIFEST /ManifestFile:"Debug\lab3a.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\user\Desktop\lab3a\lab3a\Debug\lab3a.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\lab3a.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         lab3a.vcxproj -> C:\Users\user\Desktop\lab3a\lab3a\Debug\lab3a.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\user\Desktop\lab3a\lab3a\Debug\lab3a.exe;#1" /manifest Debug\lab3a.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\lab3a.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab3a.lastbuildstate".
+     1>Построение проекта "C:\Users\user\Desktop\lab3a\lab3a\lab3a\lab3a.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.83

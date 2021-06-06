@@ -1,0 +1,28 @@
+﻿Построение начато 05.01.2021 15:29:16.
+     1>Проект "C:\Users\user\Desktop\laba4\laba4\laba4\laba4.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\laba4.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         D:\progrms\MicrosoftVisualStudio10\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\laba4.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt laba4.cpp
+         laba4.cpp
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         D:\progrms\MicrosoftVisualStudio10\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Desktop\laba4\laba4\Debug\laba4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\laba4.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\user\Desktop\laba4\laba4\Debug\laba4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Desktop\laba4\laba4\Debug\laba4.lib" /MACHINE:X86 Debug\laba4.exe.embed.manifest.res
+         Debug\laba4.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\laba4.exe.embed.manifest" /manifest Debug\laba4.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         laba4.vcxproj -> C:\Users\user\Desktop\laba4\laba4\Debug\laba4.exe
+       FinalizeBuildStatus:
+         Файл "Debug\laba4.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\laba4.lastbuildstate".
+     1>Построение проекта "C:\Users\user\Desktop\laba4\laba4\laba4\laba4.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.63

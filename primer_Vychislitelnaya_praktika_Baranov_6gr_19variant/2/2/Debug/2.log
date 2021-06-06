@@ -1,0 +1,32 @@
+﻿Построение начато 31.10.2020 6:32:35.
+     1>Проект "C:\Users\User\Desktop\2\2\2\2.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\2.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       GenerateTargetFrameworkMonikerAttribute:
+       Целевой объект "GenerateTargetFrameworkMonikerAttribute" пропускается, так как все выходные файлы актуальны по отношению к входным.
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         D:\progrms\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"D:\progrms\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\2.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"D:\progrms\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"D:\progrms\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"D:\progrms\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"D:\progrms\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"D:\progrms\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"D:\progrms\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt 2.cpp /clr:nostdlib 
+         2.cpp
+         Для всех выходных данных обновления не требуется.
+       CoreResGen:
+         Отсутствуют ресурсы, устаревшие по отношению к файлам своих источников. Пропуск формирования ресурсов.
+       ResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         D:\progrms\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Desktop\2\2\Debug\2.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\My2.Form1.resources /MANIFEST /ManifestFile:"Debug\2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\User\Desktop\2\2\Debug\2.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\2.obj
+         Debug\AssemblyInfo.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         2.vcxproj -> C:\Users\User\Desktop\2\2\Debug\2.exe
+       Manifest:
+         D:\progrms\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\User\Desktop\2\2\Debug\2.exe;#1" /manifest Debug\2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\2.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\2.lastbuildstate".
+     1>Построение проекта "C:\Users\User\Desktop\2\2\2\2.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.48
